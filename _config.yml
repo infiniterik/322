@@ -1,8 +1,11 @@
 remote_theme: jekyll/minima
 title: CS322 Suggested Readings
+show_excerpts: true
 minima:
   skin: dark
 
+
 plugins:
+ - jekyll-remote-theme
  - jekyll-feed
  - jekyll-seo-tag
