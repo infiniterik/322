@@ -1,3 +1,4 @@
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: ngzhio/jekyll-theme-hamilton
 title: CS322 Suggested Readings
 logo: thumbnail.png
+skin: midnight
