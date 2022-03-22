@@ -1,4 +1,4 @@
 remote_theme: minima
 title: CS322 Suggested Readings
-logo: thumbnail.png
-skin: midnight
+minima:
+  skin: dark
