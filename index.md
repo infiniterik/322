@@ -1,3 +1,4 @@
-## List of links for CS322
+---
+layout: home
+---
 
-- [Semantic Versioning](https://semver.org)
