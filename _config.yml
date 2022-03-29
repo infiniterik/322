@@ -1,5 +1,6 @@
 remote_theme: jekyll/minima
 title: CS322
+description: "Notes and bits and things"
 show_excerpts: true
 minima:
   skin: dark
