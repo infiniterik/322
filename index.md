@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: "Lecture Specific Notes"
+list_title: "Suggested Readings"
 ---
 
 # Tools
