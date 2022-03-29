@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: "Suggested Readings"
+list_title: "Notes and Suggested Readings"
 ---
 
 # Tools
